@@ -1,21 +1,16 @@
 #SOP Index
 
 0001 Chemical Transformation of E. Coli with NEB 10-beta cells  
-
 0002 Electroporation of E. Coli with NEB 10-beta cells  
-
 0003 Golden Gate Cloning  
-
 0004 Pouring Plates and Making Media  
-
 0005 Agarose Gel Electrophoresis  
-
-0006 Preparing Illumina Sequencing Libraries
-0007.1 Working with RNA
-0007.2 In Vitro Transcription
-0008.1 Sequencing Data Management
-0008.1 Sequencing Data Processing
-0009.1 Cell Culture Primer
+0006 Preparing Illumina Sequencing Libraries  
+0007.1 Working with RNA  
+0007.2 In Vitro Transcription  
+0008.1 Sequencing Data Management  
+0008.1 Sequencing Data Processing  
+0009.1 Cell Culture Primer  
 0009.2 Splitting a Cell Line
 0009.3 Freezing a Cell Line
 0009.4 Thawing a Cell Line
