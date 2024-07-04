@@ -1,10 +1,15 @@
 #SOP Index
 
-0001 Chemical Transformation of E. Coli with NEB 10-beta cells
-0002 Electroporation of E. Coli with NEB 10-beta cells
-0003 Golden Gate Cloning
-0004 Pouring Plates and Making Media
-0005 Agarose Gel Electrophoresis
+0001 Chemical Transformation of E. Coli with NEB 10-beta cells  
+
+0002 Electroporation of E. Coli with NEB 10-beta cells  
+
+0003 Golden Gate Cloning  
+
+0004 Pouring Plates and Making Media  
+
+0005 Agarose Gel Electrophoresis  
+
 0006 Preparing Illumina Sequencing Libraries
 0007.1 Working with RNA
 0007.2 In Vitro Transcription
